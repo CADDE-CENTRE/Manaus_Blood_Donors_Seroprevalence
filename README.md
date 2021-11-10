@@ -1,7 +1,7 @@
 # Manaus_Blood_Donors_Seroprevalence
 
 
-** Simplified Codebook **
+**Simplified Codebook**
 
 |Field|Description|Allowed Values|
 |---|---|---|
