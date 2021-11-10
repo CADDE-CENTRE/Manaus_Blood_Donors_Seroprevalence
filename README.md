@@ -1,5 +1,9 @@
 # Manaus_Blood_Donors_Seroprevalence
 
+|Field|Description|Allowed Values|
+|---|---|---|
+|Donorid|Unique identification code|code|
+
 - donorid: identification code
 - donation_month: month field of donation date
 - donation_year: year field of donation date
